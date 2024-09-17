@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on becoming a bachelor of science in applied informatics.<br>🌱 I’m currently learning how computers work and how to make them work.
+🔭 I’m currently working on becoming a bachelor of science in it.<br>🌱 I’m currently learning how computers work and how to make them work.
 
 
 # 💻 Things i use:
